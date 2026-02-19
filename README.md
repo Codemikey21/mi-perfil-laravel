@@ -45,7 +45,7 @@ Antes de ejecutar el proyecto debes tener instalado:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/AndiLinUnab/taller_b-sico_laravel
+   git clone https://github.com/Codemikey21/mi-perfil-laravel.git
    ```
 
 2. **Entrar al directorio del proyecto:**
